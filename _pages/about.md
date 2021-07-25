@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Nikolaos Bourgos Personal Website"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About
-======
 
 Hi! I’m Nikos Bourgos, a Software Engineer by day and instructor/tutor of Computer Science by night.
 
