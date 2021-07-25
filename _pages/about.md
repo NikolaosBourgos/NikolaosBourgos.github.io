@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Nikos Bourgos, a Software Engineer and instructor/tutor of Computer Science.
+I am a software engineer at [Intrasoft International](https://www.intrasoft-intl.com/) working towards implementing large-scale enterpise software projects for the EU Commision.
